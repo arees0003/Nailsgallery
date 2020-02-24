@@ -1,0 +1,56 @@
+
+
+.nav {
+    
+    background-color: white;
+    list-style-type: none;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 45px;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav li a:hover{
+    color: blueviolet;
+}
+
+
+.logo {
+    float: left;
+    max-width: 500px;
+    
+}
+
+.title {
+    position: absolute;
+    top: 50%;
+    left: 35%;
+}
+
+.button1 {
+    position:absolute;
+    top: 60%;
+    left: 45%;
+}
+
+.button2{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+}
+
+.footer{
+    text-align: center;
+    
+    
+}
